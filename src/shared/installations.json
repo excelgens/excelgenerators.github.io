@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "name":"HP Enterprise, Bangalore",
+        "generator": "DRUPS",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1u9h_OU-BKzgaZrXJhLHMQDZbTkaVLtF0"
+    },
+    {
+        "id": 1,
+        "name":"ISRO, Bengaluru",
+        "generator": "DRUPS",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1i4-ylwHtcxLNzWY4NotNvdtOLWwpA-5W"
+    },
+    {
+        "id": 2,
+        "name":"DRDO, Bengaluru",
+        "generator": "DRUPS",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=17Nl031eGGCuGaKwFiR2ef7AGrzM3iO7B"
+    },
+    {
+        "id": 3,
+        "name":"Pfizer, Chennai",
+        "generator": "DRUPS",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1kD0spHpHfnyLIZ3Nb0xljB9SgE2RuUOD"
+    },
+    {
+        "id": 4,
+        "name":"TKAP, Bengaluru",
+        "generator": "DRUPS",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1e5sdoNkdJz6GzhNQG_T03p6RaG2f2q2q"
+    },
+    {
+        "id": 5,
+        "name":"Microsoft, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=19aG7uerH4T-04I1GOQ7_qCJdJuK5Ubn9"
+    },
+    {
+        "id": 6,
+        "name":"Qualcomm, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1XI5pH_u-yd0aJH8MIT58IKFylE1pHTVM"
+    },
+    {
+        "id": 7,
+        "name":"L&T, Hyderabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1pDMW7TkgX9r-9rKPLa6gRz4iIiwk-5Hu"
+    },
+    {
+        "id": 8,
+        "name":"International Airport, Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1Viqg5duC19lEW31Xqg7CsDn0rb2I2I-2"
+    },
+    {
+        "id": 9,
+        "name":"International Airport, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1XkoUmjM5Pz5I4lqNplSN5-aD7oTnRpbI"
+    },
+    {
+        "id": 10,
+        "name":"International Airport, Hyderabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1XJMKcQVZGKsPxc3jmLupgIOyG_MjmH4K"
+    },
+    {
+        "id": 11,
+        "name":"International Airport, Ahmedabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1wAt0bkffJPbKJXYNIpSixwOstS7w6UFc"
+    },
+    {
+        "id": 12,
+        "name":"BOSCH, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1k-ScYeg-URjC6gqkzyJebHp82VCRGtTT"
+    },
+    {
+        "id": 13,
+        "name":"CTS Pvt. Ltd., Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1iLef14GEuDWU71BzGWwTXRxbQ8orRTsi"
+    },
+    {
+        "id": 14,
+        "name":"Express Towers, Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1qbvfg3ZMXSn4DTRfCgJzrZxmisneT5RW"
+    },
+    {
+        "id": 15,
+        "name":"Gold Hill Square, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1VHUvsrLlJI01CkmFkTTx0QXYgBr1yhmC"
+    },
+    {
+        "id": 16,
+        "name":"CAE Flight Training, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1gF0FqqLymI9fkILeDcyl7eFQNQpRWvS5"
+    },
+    {
+        "id": 17,
+        "name":"GMR, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1QrAZjicLdt_UEZz1HDQQ-qtXfYxOmMJt"
+    },
+    {
+        "id": 18,
+        "name":"Wadwa Associates, Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1Hs8JRBg-Kemb6F3jKyqxiJ67W78ecjGf"
+    },
+    {
+        "id": 19,
+        "name":"Tata Tele Services, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=12SXCFf3Q1tmFcooWvaca0GWiccsfhEWY"
+    },
+    {
+        "id": 20,
+        "name":"TCS, Hyderabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1bCQcFZ9AJGCd47yp6muz786grwQd-7LA"
+    },
+    {
+        "id": 21,
+        "name":"Reliance Communications, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=10PsK5kya2S2H71RdGwUVYbm5bMSg4FNm"
+    },
+    {
+        "id": 22,
+        "name":"RMZ Infinity, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1U-tU_iTsM41RJxRbpUNNNeTpT1H-1G2P"
+    },
+    {
+        "id": 23,
+        "name":"Narayana Hrudayalaya, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1SN-6KqA5N47pyNGngJ_zKGvjUIW8Q_RN"
+    },
+    {
+        "id": 24,
+        "name":"ITC Grand Central, Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=13JsBgoKxKclIbjgU_lFUtvKPz1ao6E9L"
+    },
+    {
+        "id": 25,
+        "name":"ITC Grand Chola, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1Nv7UBsFzhTMjDgxMwNTc3EUvaR6ZUHVC"
+    },
+    {
+        "id": 26,
+        "name":"ITC Green Center, Gurgaon",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1pukB3SHGMidtiLXN4MMCkdXO9b5IMYdO"
+    },
+    {
+        "id": 27,
+        "name":"ITC Mughal, Agra",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=127X4wBVRRrsa4kZRqKSK5ML2weUzZQDG"
+    },
+    {
+        "id": 28,
+        "name":"Park Sheraton, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1NjmM59Rj-Yj0V26A7Llk6Ztb6TwsXVSv"
+    },
+    {
+        "id": 29,
+        "name":"Maurya Sheraton, Delhi",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1VOMF57eVZYMoqpUs87TXLXbmG0PHh1kx"
+    },
+    {
+        "id": 30,
+        "name":"Indian Hotels(Taj Willing), Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1BuDMRQAd1VvR3kbmbwx51zr1Dmv0Hlc9"
+    },
+    {
+        "id": 31,
+        "name":"K Raheja, Hyderabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=15w3N0VJzxnpQo4uTtODPev_K33GlOXCb"
+    },
+    {
+        "id": 32,
+        "name":"HDFC, Mumbai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=137OykE-0bEsHbiW_YvxHK3E9463R7icG"
+    },
+    {
+        "id": 33,
+        "name":"ICICI, Hyderabad",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1vGiqkD2uz3ohV5kM5yfybaViNjRJuc7I"
+    },
+    {
+        "id": 34,
+        "name":"HSBC, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1H0bvN-LYYrnNTYqxDj_KP2qZYp8UYTTn"
+    },
+    {
+        "id": 35,
+        "name":"IIT Research Park, Chennai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=11D-uYz7C8rjEgbn33Bq0qsOxtOICPkMt"
+    },
+    {
+        "id": 36,
+        "name":"HT Medai Ltd., Greater Noida",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1kwlo045ZVS_D_T6MQ7kO_vDm7n1OHdJA"
+    },
+    {
+        "id": 37,
+        "name":"HP, Bengaluru",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1WYYX_ejDjRp3SwsOG12un8gzybMXpR7F"
+    },
+    {
+        "id": 38,
+        "name":"Hilton Hotel, Central Africa",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1DPt3-ujWYJdL7KnnvOTJXLGcrIfS4SVR"
+    },
+    {
+        "id": 39,
+        "name":"The Kanoo Group, Dubai",
+        "generator": "GENSET",
+        "imageUrl": "https://drive.google.com/uc?export=download&id=1UkvjhcNDoTVAZESKgiELGL1eZOEeVjLm"
+    }
+]

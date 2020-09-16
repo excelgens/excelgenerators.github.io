@@ -1,0 +1,90 @@
+.prod{
+    color: red;
+    margin-top: 150px;
+}
+.header {
+    text-align: right;
+}
+.features{
+    text-align: center;
+}
+.foverlay{
+    color : white;
+    background-color: white;
+}
+.foverlay:hover{
+    transition: all ease-out 600ms;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius : 20px;
+    text-transform: uppercase;
+}
+.drups-title {
+    color:black;
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+  font-size: 2.5rem;
+  font-weight: 550;
+}
+.drups-title2 {
+    color:black;
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+  font-size: 25px;
+  font-weight: 550;
+  margin-bottom: 20px;
+}
+.drups-1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.drups-2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.break-line {
+    background-color: #b21b09;
+}
+.drups-working {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 550;
+    font-size: 30px;
+}
+.drups-video {
+    margin-bottom: 130px;
+}
+
+@media screen and (max-width : 1024px){
+    .foverlay{
+        transition: all ease-out 600ms;
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius : 20px;
+        text-transform: uppercase;
+        color : white;
+    }
+}
+@media screen and (max-width : 585px){
+    .drups-title2 {
+        text-align: center;
+    }
+    .drups-title {
+        text-align: center;
+    }
+    .header {
+        text-align: center;
+    }
+}
+.down-button {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.down-link {
+    color: white;
+    text-decoration: none;
+}
+.down-link:hover {
+    color: white;
+    text-decoration: none;
+}
