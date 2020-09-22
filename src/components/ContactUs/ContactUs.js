@@ -37,7 +37,7 @@ class Contact extends Component {
     }
     handleClick(event) {
         if(this.state.name === '' || this.state.email === '' || this.state.number === '' ) {
-            alert('Please Enter all fields');
+            alert('Please Enter all the fields');
         }
         else{
             event.preventDefault();
