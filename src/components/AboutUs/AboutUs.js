@@ -30,7 +30,6 @@ changeit3() {
 
     render(){
       return (
-        
         <div className='about-fullbox'>
           <div className='container about-mainbox'>
             <div className='row'>
@@ -77,14 +76,14 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit1.bind(this)}>
                               <div className='accord-head'>
-                                Mr. R Madhavan - M.D
+                                Mr. R Madhavan - M.D    (Ph.no - +919845033116)
                                 {this.state.toggle1 === false ? <i className="fa fa-caret-up arrow-down"></i> : <i className="fa fa-caret-down arrow-down"></i>}
                               </div>
                           </Accordion.Toggle>
                           <Accordion.Collapse eventKey="0">
                           <div className='accord-body'>
                               <Card.Body>
-                              <p>From the MD's Desk</p>
+                              <p>He says</p>
                               <p>"We Team Excel always work towards the Progress to provide Quality, Clean, Reliable Uninterrupted Power at all times."</p>
                               </Card.Body>
                           </div>
@@ -95,7 +94,7 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit2.bind(this)}>
                               <div className='accord-head'>
-                                Mr. Hegde
+                                Mr. Hegde    (Ph.no - +919880132335)
 
                               </div>
                           </Accordion.Toggle>
@@ -106,7 +105,7 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit3.bind(this)}>
                               <div className='accord-head'>
-                                Mr. Charan
+                                Mr. Charan    (Ph.no - +919901768022)
                                 
                               </div>
                           </Accordion.Toggle>
@@ -116,7 +115,6 @@ changeit3() {
               </div>
             </div>
           </div>
-        
         </div>
       );
     }
