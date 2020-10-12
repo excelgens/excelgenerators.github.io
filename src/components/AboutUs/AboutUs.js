@@ -76,7 +76,7 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit1.bind(this)}>
                               <div className='accord-head'>
-                                Mr. R Madhavan - M.D <span className = 'fa fa -phone-square'/>  +91-9845033116
+                                Mr. R Madhavan - M.D <span className = 'fa fa -phone-square'> </span>  +91-9845033116
                                 {this.state.toggle1 === false ? <i className="fa fa-caret-up arrow-down"></i> : <i className="fa fa-caret-down arrow-down"></i>}
                               </div>
                           </Accordion.Toggle>
@@ -94,7 +94,7 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit2.bind(this)}>
                               <div className='accord-head'>
-                                Mr. Hegde <span className = 'fa fa -phone-square'/>  +91-9880132335
+                                Mr. Hegde <span className = 'fa fa -phone-square'> </span>  +91-9880132335
 
                               </div>
                           </Accordion.Toggle>
@@ -105,7 +105,7 @@ changeit3() {
                       <Card className='accord-card' id='accordian-heading' >
                           <Accordion.Toggle as={Card.Header} eventKey="0" style={{ backgroundColor: '#b21b09', borderColor: '#b21b09' }} onClick={this.changeit3.bind(this)}>
                               <div className='accord-head'>
-                                Mr. Charan <span className = 'fa fa -phone-square'/>  +91-9901768022
+                                Mr. Charan <span className = 'fa fa -phone-square'> </span>  +91-9901768022
                                 
                               </div>
                           </Accordion.Toggle>
