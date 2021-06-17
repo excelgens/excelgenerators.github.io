@@ -47,7 +47,7 @@ class Home extends React.Component {
                         </div>
                         <div className = 'col-12 col-sm-6 align-self-center'>
                             <Fade bottom>
-                                <img src = 'https://drive.google.com/uc?export=download&id=1-4DLkocmcQJweEw9fe9JaxXe7n0_4Prw' alt = 'Partners' width = '100%' className="rounded mx-auto d-block"/>
+                                <img src = 'https://drive.google.com/uc?export=download&id=11r6EucIEeBHRdPy68scl0X44yPa6D-a1' alt = 'Partners' width = '100%' className="rounded mx-auto d-block"/>
                             </Fade>
                         </div>
             </div>
